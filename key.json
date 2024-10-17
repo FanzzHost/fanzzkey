@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "0831954397591",
+      "password": "fanzz"
+    },
+    {
+      "whatsappNumber": "0831954397594",
+      "password": "fanzz"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "",
+      "token": ""
+    }
+  ]
+}
